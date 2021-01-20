@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 January, 2021 - 19 January, 2021
+
+Dart         5 hrs 23 mins   ███████████████████████▓░   95.22 % 
+Git Config   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 <!--END_SECTION:waka-->
