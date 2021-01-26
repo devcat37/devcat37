@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ```text
 Week: 18 January, 2021 - 25 January, 2021
 
-Dart         16 hrs 46 mins  ████████████████████████░   95.85 % 
-YAML         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Dart         21 hrs 1 min    ████████████████████████░   95.94 % 
+YAML         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 <!--END_SECTION:waka-->
