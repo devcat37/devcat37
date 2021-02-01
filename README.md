@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ```text
 Week: 24 January, 2021 - 31 January, 2021
 
-Dart         19 hrs 28 mins  ████████████████████████▓   98.42 % 
-YAML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Dart         18 hrs 33 mins  ████████████████████████▓   98.38 % 
+YAML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
