@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ```text
 Week: 31 January, 2021 - 07 February, 2021
 
-Dart     10 hrs 15 mins  ███████████████████████▓░   94.39 % 
+Dart     10 hrs 14 mins  ███████████████████████▓░   94.39 % 
 XML      16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 YAML     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 Groovy   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
