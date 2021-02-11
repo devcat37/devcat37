@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2021 - 09 February, 2021
+Week: 03 February, 2021 - 10 February, 2021
 
 Dart     14 hrs 14 mins  ██████████████████████▒░░   89.08 % 
 YAML     34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
