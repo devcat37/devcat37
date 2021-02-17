@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ```text
 Week: 09 February, 2021 - 16 February, 2021
 
-Dart         19 hrs 18 mins  ███████████████████████▒░   92.76 % 
-YAML         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Groovy       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-XML          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Properties   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Dart         15 hrs 18 mins  ████████████████████████▒   97.63 % 
+XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Properties   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Groovy       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 <!--END_SECTION:waka-->
