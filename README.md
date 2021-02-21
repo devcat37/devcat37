@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**devcat37/devcat37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**devcat37/devcat37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter/Dart.
 - 👯 I’m looking to collaborate with designers.
 <!-- - 🤔 I’m looking for help with ... -->
--->
 
 <!--START_SECTION:waka-->
 ```text
