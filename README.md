@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 February, 2021 - 25 February, 2021
+Week: 19 February, 2021 - 26 February, 2021
 
 Dart         15 hrs 33 mins  ████████████████████████▓   98.54 % 
 XML          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
