@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 February, 2021 - 01 March, 2021
+Week: 23 February, 2021 - 02 March, 2021
 
 Dart         6 hrs 10 mins   ████████████████████████▓   98.06 % 
 Go           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
