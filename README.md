@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 March, 2021 - 09 March, 2021
+Week: 03 March, 2021 - 10 March, 2021
 
 Dart   2 hrs 47 mins   ██████████████████████▓░░   91.27 % 
 YAML   16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
