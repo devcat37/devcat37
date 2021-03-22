@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Chimicum application.
 - 🌱 I’m currently learning Flutter/Dart.
-- 👯 I’m looking to collaborate with designers.
+- 👯 I’m looking to collaborate with UI designers.
 <!-- - 🤔 I’m looking for help with ... -->
 
 <!--START_SECTION:waka-->
