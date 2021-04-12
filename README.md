@@ -13,6 +13,6 @@
 ```text
 Week: 04 April, 2021 - 11 April, 2021
 
-
+Dart   12 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
