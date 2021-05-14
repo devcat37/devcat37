@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 May, 2021 - 12 May, 2021
+Week: 06 May, 2021 - 13 May, 2021
 
 Dart       2 hrs 14 mins   ████████████████████████░   95.77 % 
 Other      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
