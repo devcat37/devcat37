@@ -13,6 +13,6 @@
 ```text
 Week: 26 May, 2021 - 02 June, 2021
 
-Dart         2 hrs 58 mins   █████████████████████████   99.73 % 
+Dart         2 hrs 57 mins   █████████████████████████   99.73 % 
 ```
 <!--END_SECTION:waka-->
