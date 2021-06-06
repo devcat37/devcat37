@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 May, 2021 - 04 June, 2021
+Week: 29 May, 2021 - 05 June, 2021
 
 Dart         2 hrs 49 mins   ████████████████████████░   95.57 % 
 Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
