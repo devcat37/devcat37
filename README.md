@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 June, 2021 - 12 June, 2021
+Week: 06 June, 2021 - 13 June, 2021
 
 Dart         3 hrs 47 mins   ████████████████████████▒   97.80 % 
 Groovy       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
