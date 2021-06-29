@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 June, 2021 - 27 June, 2021
+Week: 22 June, 2021 - 28 June, 2021
 
 Dart     33 hrs 39 mins  ███████████████████████▓░   94.34 % 
 Other    51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
