@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 July, 2021 - 24 July, 2021
+Week: 19 July, 2021 - 25 July, 2021
 
 Dart    12 hrs 5 mins   ████████████████████▒░░░░   81.75 % 
 Java    1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
