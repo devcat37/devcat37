@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 July, 2021 - 03 August, 2021
+Week: 29 July, 2021 - 04 August, 2021
 
 Dart       22 hrs 29 mins  ████████████████████████▒   97.23 % 
 Other      23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
