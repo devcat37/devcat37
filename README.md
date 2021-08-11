@@ -13,6 +13,6 @@
 ```text
 Week: 04 August, 2021 - 10 August, 2021
 
-Dart    9 hrs 26 mins   █████████████████████████   99.69 % 
+Dart    8 hrs 53 mins   █████████████████████████   99.70 % 
 ```
 <!--END_SECTION:waka-->
