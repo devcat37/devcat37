@@ -11,12 +11,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 August, 2021 - 04 September, 2021
-
-YAML         19 mins         █████████▒░░░░░░░░░░░░░░░   37.34 % 
-Dart         17 mins         ████████▒░░░░░░░░░░░░░░░░   33.47 % 
-Groovy       7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Properties   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
