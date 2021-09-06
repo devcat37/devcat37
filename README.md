@@ -11,6 +11,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 August, 2021 - 05 September, 2021
+
+Dart    5 hrs 35 mins   ████████████████████████▓   98.45 % 
+Other   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 <!--END_SECTION:waka-->
