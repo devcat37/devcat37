@@ -13,7 +13,8 @@
 ```text
 Week: 05 September, 2021 - 11 September, 2021
 
-Dart    6 hrs 12 mins   ████████████████████████▓   98.50 % 
-Other   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Dart         9 hrs 35 mins   ████████████████████████▓   98.52 % 
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 <!--END_SECTION:waka-->
