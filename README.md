@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2021 - 11 September, 2021
+Week: 06 September, 2021 - 12 September, 2021
 
 Dart         9 hrs 35 mins   ████████████████████████▓   98.52 % 
 Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
