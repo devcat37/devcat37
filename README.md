@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2021 - 12 September, 2021
+Week: 07 September, 2021 - 13 September, 2021
 
 Dart         8 hrs 15 mins   ████████████████████████▒   96.79 % 
 Groovy       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
