@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 September, 2021 - 17 September, 2021
+Week: 12 September, 2021 - 18 September, 2021
 
 Dart         12 hrs 41 mins  ███████████████████████▒░   93.42 % 
 Markdown     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
