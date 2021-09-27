@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 September, 2021 - 25 September, 2021
+Week: 20 September, 2021 - 26 September, 2021
 
 Dart         22 hrs 53 mins  ███████████████████████▓░   94.50 % 
 JavaScript   41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
