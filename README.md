@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 October, 2021 - 07 October, 2021
+Week: 02 October, 2021 - 08 October, 2021
 
 Dart    8 hrs 22 mins   █████████████████████░░░░   83.63 % 
 Other   1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 % 
