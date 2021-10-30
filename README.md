@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 October, 2021 - 28 October, 2021
+Week: 23 October, 2021 - 29 October, 2021
 
 Dart     17 hrs 54 mins  █████████████████████▓░░░   86.82 % 
 Python   1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
