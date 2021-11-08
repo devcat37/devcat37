@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2021 - 06 November, 2021
+Week: 01 November, 2021 - 07 November, 2021
 
 Dart    9 hrs 10 mins   ████████████████████████▒   97.30 % 
 XML     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
