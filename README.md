@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2021 - 08 November, 2021
+Week: 03 November, 2021 - 09 November, 2021
 
 Dart     13 hrs 9 mins   ███████████████████▓░░░░░   78.43 % 
 Python   3 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
