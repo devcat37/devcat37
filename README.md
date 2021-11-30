@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2021 - 28 November, 2021
+Week: 23 November, 2021 - 29 November, 2021
 
 Dart      8 hrs 7 mins    ██████████████████████░░░   88.40 % 
 Haskell   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
