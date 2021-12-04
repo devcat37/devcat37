@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 November, 2021 - 02 December, 2021
+Week: 27 November, 2021 - 03 December, 2021
 
 Dart         35 hrs 30 mins  ██████████████████████░░░   87.83 % 
 JavaScript   2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
