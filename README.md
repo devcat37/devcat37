@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2021 - 31 December, 2021
+Week: 26 December, 2021 - 01 January, 2022
 
 Dart     7 hrs 2 mins    ███████████████████████▓░   94.36 % 
 YAML     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
