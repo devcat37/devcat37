@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2021 - 02 January, 2022
+Week: 28 December, 2021 - 03 January, 2022
 
 Dart     4 hrs 58 mins   ████████████████████████░   95.62 % 
 Groovy   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
