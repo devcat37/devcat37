@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2022 - 08 January, 2022
+Week: 03 January, 2022 - 09 January, 2022
 
 Dart     18 hrs 57 mins  ██████████████████████▒░░   89.15 % 
 Python   1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
