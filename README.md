@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 January, 2022 - 12 January, 2022
+Week: 07 January, 2022 - 13 January, 2022
 
 Dart         12 hrs 50 mins  ██████████████████████▓░░   91.26 % 
 Groovy       31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
