@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2022 - 05 February, 2022
+Week: 31 January, 2022 - 06 February, 2022
 
 Dart         9 hrs 28 mins   ██████████████████████░░░   87.91 % 
 JavaScript   52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
