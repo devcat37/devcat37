@@ -13,8 +13,6 @@
 ```text
 Week: 12 February, 2022 - 18 February, 2022
 
-Total: 24 hrs 35 mins
-
 Dart         20 hrs 52 mins  █████████████████████▒░░░   84.89 % 
 HTML         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 JavaScript   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
