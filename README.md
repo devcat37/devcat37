@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2022 - 20 February, 2022
+From: 13 February, 2022 - To: 20 February, 2022
 
 Dart         24 hrs 2 mins   █████████████████░░░░░░░░   68.26 % 
 Markdown     7 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.67 % 
