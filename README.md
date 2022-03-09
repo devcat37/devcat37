@@ -12,14 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 March 2022 - To: 08 March 2022
+From: 02 March 2022 - To: 09 March 2022
 
-Dart         3 hrs 57 mins   ██████████████▓░░░░░░░░░░   59.16 %
-JavaScript   2 hrs 21 mins   ████████▓░░░░░░░░░░░░░░░░   35.09 %
-YAML         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Groovy       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Dart         5 hrs 57 mins   █████████████████▓░░░░░░░   70.67 %
+JavaScript   2 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   24.37 %
+YAML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Groovy       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Java         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
