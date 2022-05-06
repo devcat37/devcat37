@@ -12,11 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2022 - To: 05 May 2022
+From: 29 April 2022 - To: 06 May 2022
 
-Dart         4 hrs 31 mins   ████████████████████▒░░░░   81.12 %
-JavaScript   37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-Other        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Dart         5 hrs 7 mins    ████████████████████▓░░░░   82.89 %
+JavaScript   37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Other        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 ```
 
 <!--END_SECTION:waka-->
