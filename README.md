@@ -12,10 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 May 2022 - To: 18 May 2022
+From: 12 May 2022 - To: 19 May 2022
 
-Dart         43 hrs 10 mins  ████████████████████████▓   99.32 %
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Dart         37 hrs 38 mins  ████████████████████████▓   99.11 %
+Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
