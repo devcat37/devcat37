@@ -12,10 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 July 2022 - To: 10 July 2022
+From: 04 July 2022 - To: 11 July 2022
 
-Dart    1 hr 18 mins    ████████████████████░░░░░   79.61 %
-Other   15 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Dart         4 hrs 40 mins   ██████████████████████▒░░   89.29 %
+Other        26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
 ```
 
 <!--END_SECTION:waka-->
