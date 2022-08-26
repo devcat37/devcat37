@@ -12,10 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 August 2022 - To: 25 August 2022
+From: 19 August 2022 - To: 26 August 2022
 
-Dart         39 hrs 24 mins  █████████████████████▓░░░   86.85 %
-Other        4 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+Dart         38 hrs 54 mins  ██████████████████████░░░   87.49 %
+Other        4 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
 ```
 
 <!--END_SECTION:waka-->
