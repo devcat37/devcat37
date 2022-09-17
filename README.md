@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 16 September 2022
+From: 10 September 2022 - To: 17 September 2022
 
-Dart     47 hrs 25 mins  ████████████████████████▓   98.52 %
-Groovy   39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-XML      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Dart     42 hrs 43 mins  ████████████████████████▓   98.06 %
+Groovy   47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+XML      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
