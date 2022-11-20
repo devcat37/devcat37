@@ -12,11 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 November 2022 - To: 19 November 2022
+From: 13 November 2022 - To: 20 November 2022
 
-Dart       18 hrs          ███████████████████████░░   91.53 %
-C++        1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-Other      6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Dart       17 hrs 5 mins   ██████████████████████▓░░   91.12 %
+C++        1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Other      6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
