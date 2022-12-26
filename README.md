@@ -12,10 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 December 2022 - To: 25 December 2022
+From: 19 December 2022 - To: 26 December 2022
 
-Dart    17 hrs 19 mins  ███████████████████████▓░   95.03 %
-Other   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Dart     18 hrs 14 mins  ███████████████████████▓░   94.39 %
+Other    29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->
