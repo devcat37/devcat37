@@ -12,11 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 29 December 2022
+From: 23 December 2022 - To: 30 December 2022
 
-Dart     26 hrs 58 mins  ███████████████████████▓░   94.89 %
-Groovy   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Other    23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Dart     26 hrs 53 mins  ███████████████████████▓░   94.95 %
+Groovy   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Other    23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
