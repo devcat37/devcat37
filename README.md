@@ -12,12 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 December 2022 - To: 03 January 2023
+From: 28 December 2022 - To: 04 January 2023
 
-Dart         27 hrs 17 mins  ████████████████████████▒   97.61 %
-XML          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Other        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Dart         22 hrs 24 mins  ███████████████████████▒░   93.73 %
+JSON         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
