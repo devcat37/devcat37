@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 January 2023 - To: 19 January 2023
+From: 13 January 2023 - To: 20 January 2023
 
-Dart     16 hrs 42 mins  ████████████████████████░   95.77 %
-YAML     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Groovy   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Other    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Dart     21 hrs 43 mins  ████████████████████████░   96.63 %
+YAML     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Groovy   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Other    8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
