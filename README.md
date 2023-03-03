@@ -12,11 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2023 - To: 02 March 2023
+From: 24 February 2023 - To: 03 March 2023
 
-Dart    16 hrs 8 mins   ███████████████████████▓░   94.21 %
-C++     57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Dart    8 hrs 58 mins   ███████████████████░░░░░░   76.55 %
+C++     2 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
