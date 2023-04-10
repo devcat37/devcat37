@@ -12,11 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 April 2023 - To: 09 April 2023
+From: 03 April 2023 - To: 10 April 2023
 
-Dart     4 hrs 33 mins   ████████████████████████▓   98.22 %
-Groovy   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Dart     34 mins         ██████████████████████░░░   88.12 %
+Groovy   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
 ```
 
 <!--END_SECTION:waka-->
