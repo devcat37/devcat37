@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
-Dart         7 hrs 19 mins   ███████████████████████░░   91.73 %
-YAML         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-CocoaPods    9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Dart        5 hrs 52 mins   ██████████████████████▓░░   90.98 %
+YAML        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+CocoaPods   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Other       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->
