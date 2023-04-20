@@ -12,10 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2023 - To: 19 April 2023
+From: 13 April 2023 - To: 20 April 2023
 
-Dart     3 hrs 13 mins   ███████████████████████▓░   94.12 %
-Other    9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Dart     2 hrs 45 mins   ███████████████████████▒░   93.77 %
+Other    9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
 ```
 
 <!--END_SECTION:waka-->
