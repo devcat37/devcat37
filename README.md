@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 25 May 2023 - To: 01 June 2023
 
 Dart     23 hrs 31 mins  ███████████████████████▓░   94.05 %
