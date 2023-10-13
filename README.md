@@ -12,12 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2023 - To: 12 October 2023
+From: 06 October 2023 - To: 13 October 2023
 
-Python   17 hrs 17 mins  ████████████████▒░░░░░░░░   65.67 %
-Dart     9 hrs 2 mins    ████████▓░░░░░░░░░░░░░░░░   34.32 %
+Python   12 hrs 50 mins  ██████████████░░░░░░░░░░░   56.07 %
+Dart     10 hrs 3 mins   ███████████░░░░░░░░░░░░░░   43.92 %
 XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
