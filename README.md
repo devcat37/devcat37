@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2023 - To: 20 October 2023
+From: 14 October 2023 - To: 21 October 2023
 
-Python           12 hrs 35 mins  ████████████████▓░░░░░░░░   66.10 %
-Dart             4 hrs 59 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
-Swift            37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Objective-C      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Groovy           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Python           9 hrs 1 min     ███████████████▓░░░░░░░░░   62.75 %
+Dart             3 hrs 57 mins   ███████░░░░░░░░░░░░░░░░░░   27.49 %
+Swift            37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Objective-C      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Groovy           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
