@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2023 - To: 04 November 2023
+From: 29 October 2023 - To: 05 November 2023
 
-Dart         2 hrs 10 mins   ███████████████▓░░░░░░░░░   62.62 %
-Markdown     1 hr 6 mins     ████████░░░░░░░░░░░░░░░░░   32.07 %
-YAML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Dart         2 hrs 10 mins   █████████████░░░░░░░░░░░░   52.63 %
+Markdown     1 hr 10 mins    ███████░░░░░░░░░░░░░░░░░░   28.23 %
+Python       36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+YAML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
