@@ -12,9 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 16 November 2023
+From: 10 November 2023 - To: 17 November 2023
 
-Dart     2 hrs 27 mins   █████████████████████████   99.61 %
+Dart     2 hrs 29 mins   █████████████████████████   99.61 %
 Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
