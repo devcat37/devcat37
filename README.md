@@ -14,9 +14,7 @@
 ```txt
 From: 13 November 2023 - To: 20 November 2023
 
-Dart   6 hrs 45 mins   ████████████████████████▓   98.08 %
-YAML   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-XML    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
