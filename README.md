@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2023 - To: 04 December 2023
+From: 28 November 2023 - To: 05 December 2023
 
-Dart          23 hrs 46 mins  █████████████████████▓░░░   86.00 %
-Swift         3 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
-YAML          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-XML           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Dart          18 hrs 41 mins  ████████████████████▓░░░░   82.85 %
+Swift         3 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
+YAML          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+XML           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
