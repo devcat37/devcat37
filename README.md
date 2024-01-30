@@ -12,11 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2024 - To: 29 January 2024
+From: 23 January 2024 - To: 30 January 2024
 
-Dart   15 hrs 55 mins  ████████████████████████▓   98.58 %
-YAML   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-XML    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Dart   12 hrs 20 mins  ████████████████████████▒   97.94 %
+XML    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+YAML   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
