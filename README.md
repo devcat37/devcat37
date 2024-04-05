@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2024 - To: 04 April 2024
+From: 29 March 2024 - To: 05 April 2024
 
 Dart          5 hrs 18 mins   █████████████████▒░░░░░░░   69.56 %
 JavaScript    1 hr 28 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
