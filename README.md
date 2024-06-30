@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2024 - To: 29 June 2024
+From: 23 June 2024 - To: 30 June 2024
 
-Dart          8 hrs 36 mins   █████████████████▓░░░░░░░   70.96 %
-TypeScript    1 hr 35 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-YAML          57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-JavaScript    37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Image (svg)   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Dart          8 hrs 40 mins   █████████████████▓░░░░░░░   70.84 %
+TypeScript    1 hr 35 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+JavaScript    51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+YAML          49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Image (svg)   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
