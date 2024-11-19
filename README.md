@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2024 - To: 18 November 2024
+From: 12 November 2024 - To: 19 November 2024
 
-Python        16 hrs 36 mins  ████████████████████▓░░░░   82.60 %
-Dart          1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Text          47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Git Config    39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Other         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Python        16 hrs 39 mins  ███████████████████░░░░░░   75.91 %
+Dart          2 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+Text          1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+Git Config    39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Bash          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
