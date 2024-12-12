@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2024 - To: 11 December 2024
+From: 05 December 2024 - To: 12 December 2024
 
-Python        10 hrs 7 mins   ██████████████████▓░░░░░░   74.40 %
-Dart          2 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   20.24 %
-Git Config    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-YAML          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-CocoaPods     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Python        8 hrs 21 mins   █████████████▓░░░░░░░░░░░   54.86 %
+Dart          6 hrs 18 mins   ██████████▒░░░░░░░░░░░░░░   41.46 %
+YAML          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+CocoaPods     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+XML           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
