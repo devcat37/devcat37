@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2025 - To: 14 January 2025
+From: 08 January 2025 - To: 15 January 2025
 
-Python       30 hrs 33 mins  ███████████████████████░░   92.02 %
-Dart         2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-YAML         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-JSON         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Python       26 hrs 9 mins   ████████████████████████░   96.01 %
+Dart         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+JSON         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
