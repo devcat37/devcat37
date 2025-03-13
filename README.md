@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2025 - To: 12 March 2025
+From: 06 March 2025 - To: 13 March 2025
 
 Python       3 hrs 59 mins   ██████████▓░░░░░░░░░░░░░░   42.48 %
 Dart         3 hrs           ████████░░░░░░░░░░░░░░░░░   32.02 %
