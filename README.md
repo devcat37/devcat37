@@ -12,11 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2025 - To: 30 March 2025
+From: 24 March 2025 - To: 31 March 2025
 
-TypeScript   30 mins         ██████████████████▓░░░░░░   75.05 %
-Dart         10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.39 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Dart        24 mins         ████████████████████████░   96.58 %
+YAML        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+XML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+CocoaPods   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
