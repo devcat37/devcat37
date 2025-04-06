@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2025 - To: 05 April 2025
+From: 30 March 2025 - To: 06 April 2025
 
 Dart                2 hrs 48 mins   █████████████░░░░░░░░░░░░   51.72 %
 Groovy              1 hr 4 mins     █████░░░░░░░░░░░░░░░░░░░░   19.63 %
