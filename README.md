@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2025 - To: 06 April 2025
+From: 31 March 2025 - To: 07 April 2025
 
-Dart                2 hrs 48 mins   █████████████░░░░░░░░░░░░   51.72 %
-Groovy              1 hr 4 mins     █████░░░░░░░░░░░░░░░░░░░░   19.63 %
-Java Properties     34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-YAML                26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-Kotlin              9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Dart                2 hrs 35 mins   ████████████▒░░░░░░░░░░░░   49.36 %
+Groovy              1 hr 4 mins     █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+Java Properties     36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+YAML                25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+Kotlin              9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
