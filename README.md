@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 April 2025 - To: 27 April 2025
+From: 21 April 2025 - To: 28 April 2025
 
-TypeScript   2 hrs 8 mins    ██████████████████▓░░░░░░   74.77 %
-Dart         36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.08 %
-CocoaPods    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+TypeScript   3 hrs 18 mins   █████████████████████▓░░░   86.10 %
+Dart         24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+CocoaPods    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
