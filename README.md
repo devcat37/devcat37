@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2025 - To: 27 July 2025
+From: 21 July 2025 - To: 28 July 2025
 
 Dart         57 mins         ████████████▒░░░░░░░░░░░░   49.51 %
 TypeScript   45 mins         ██████████░░░░░░░░░░░░░░░   39.75 %
