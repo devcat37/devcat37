@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2025 - To: 22 August 2025
+From: 16 August 2025 - To: 23 August 2025
 
-Dart         12 hrs 10 mins  █████████████████████▓░░░   87.17 %
-HTML         1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-TypeScript   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Dart         12 hrs 31 mins  ██████████████████████░░░   87.37 %
+HTML         1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+TypeScript   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
