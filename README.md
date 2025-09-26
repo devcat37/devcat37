@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2025 - To: 25 September 2025
+From: 19 September 2025 - To: 26 September 2025
 
 Dart        5 hrs 10 mins   ████████████████████████░   95.69 %
 YAML        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
