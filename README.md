@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2025 - To: 14 October 2025
+From: 08 October 2025 - To: 15 October 2025
 
-Dart         3 hrs 59 mins   █████████████████████░░░░   84.61 %
-JavaScript   27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-YAML         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-CocoaPods    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Dart         4 hrs 9 mins    ███████████████████░░░░░░   75.37 %
+YAML         43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
+CocoaPods    18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+JavaScript   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+XML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
