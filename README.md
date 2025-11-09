@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2025 - To: 08 November 2025
+From: 02 November 2025 - To: 09 November 2025
 
 Dart         3 hrs 4 mins    ██████████████████████▒░░   89.35 %
 JavaScript   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
