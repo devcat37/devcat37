@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2026 - To: 03 February 2026
+From: 28 January 2026 - To: 04 February 2026
 
-Dart         3 hrs 15 mins   █████████████████▓░░░░░░░   70.39 %
-YAML         20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-Markdown     19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-XML          15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-CocoaPods    15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Dart         3 hrs 38 mins   ██████████████████▒░░░░░░   73.14 %
+YAML         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Markdown     19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+CocoaPods    18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Other        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->
