@@ -12,9 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2026 - To: 06 March 2026
+From: 28 February 2026 - To: 07 March 2026
 
-YAML   5 mins                █████████████████████████   100.00 %
+YAML        6 mins                █████████████░░░░░░░░░░░░   52.08 %
+Dart        5 mins                ██████████▓░░░░░░░░░░░░░░   42.62 %
+CocoaPods   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+XML         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
