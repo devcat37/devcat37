@@ -12,10 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2026 - To: 05 August 2026
+From: 30 July 2026 - To: 06 August 2026
 
-Dart   0 secs                █████████████████████░░░░   84.17 %
-YAML   0 secs                ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
